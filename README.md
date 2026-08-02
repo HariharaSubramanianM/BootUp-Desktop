@@ -1,2 +1,2 @@
 # BootUp-Releases
-Visit https://github.com/HariharaSubramanianM/BootUp-Releases/releases to get latest app download link
+Visit https://github.com/HariharaSubramanianM/BootUp-Desktop/releases to get latest app download link
